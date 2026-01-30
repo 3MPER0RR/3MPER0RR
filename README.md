@@ -1,1 +1,1 @@
-![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3MPER0RR&theme=dark)
+![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=3MPER0RR&theme=dark) ![profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3MPER0RR&theme=vision_friendly_dark)
