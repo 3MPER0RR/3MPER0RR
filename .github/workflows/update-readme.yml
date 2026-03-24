@@ -1,0 +1,27 @@
+name: Update README Stats
+
+on:
+  schedule:
+    # Ogni 6 ore (puoi cambiare)
+    - cron: "0 */6 * * *"
+  workflow_dispatch:  # per trigger manuale
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README Stats
+        run: |
+          # Se vuoi puoi rigenerare i badge con cache minima
+          sed -i "s|cache_seconds=[0-9]*|cache_seconds=600|g" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Refresh GitHub stats badges" || echo "No changes to commit"
+          git push
