@@ -1,3 +1,22 @@
+<center>
+<body>
+<h3>3MPER0RR</h3>
+
+<a href="https://clawhub.ai/3mper0rr">Clawhub-3MPER0RR skills </a>
+
+<a href="https://featherless.ai/models?query=3MPER0RR">Featherless ai-3MPER0RR-models-Abliterated </a>
+
+<a href="https://huggingface.co/3MPER0RR">Huggingface 3MPER0RR</a>
+
+<a href="https://huggingface.co/3MPER0RR/models?search=lora">Huggingface-3MPER0RR-Lora-Abliterated </a>
+
+<a href="https://huggingface.co/3MPER0RR/models">Huggingface-3MPER0RR-all-models-Abliterated</a>
+
+</body>
+</center>
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3MPER0RR&langs_count=100&theme=dark&layout=compact&cache_seconds=20)
 
 ![Skills](https://skillicons.dev/icons?i=python,c,cpp,linux,docker,git,nodejs,rust,ruby,perl,javascript,html)
