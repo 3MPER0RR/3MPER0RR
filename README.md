@@ -2,7 +2,6 @@
 
 ### 3MPER0RR
 
-[![ClawHub](https://img.shields.io/badge/ClawHub-3mper0rr-00FF88?style=for-the-badge&logo=openai&logoColor=black)](https://clawhub.ai/3mper0rr)
 [![Featherless](https://img.shields.io/badge/Featherless-10%20Models-7B2FFF?style=for-the-badge)](https://featherless.ai/models?query=3MPER0RR)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-3MPER0RR-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/3MPER0RR)
 
