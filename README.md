@@ -4,6 +4,7 @@
 
 [![Featherless](https://img.shields.io/badge/Featherless-13%20Models-7B2FFF?style=for-the-badge)](https://featherless.ai/models?query=3MPER0RR)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-3MPER0RR-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/3MPER0RR)
+[![Pirateface](https://img.shields.io/badge/Pirateface-13%20Models-7B2FFF?style=for-the-badge)](https://pirateface.co/3MPER0RR)
 
 [![LoRA](https://img.shields.io/badge/LoRA%20Adapters-List-00B4D8?style=flat-square)](https://huggingface.co/3MPER0RR/models?search=lora)
 [![All Models](https://img.shields.io/badge/All%20Models-Abliterated-FF3366?style=flat-square)](https://huggingface.co/3MPER0RR/models)
